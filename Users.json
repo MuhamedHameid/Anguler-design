@@ -1,0 +1,63 @@
+{
+"Users":[
+{
+  "id": 1,
+  "name": "mohamed",
+  "age":"25",
+  "address": "123 st.",
+  "email": "muhmedhamid@gmail.com",
+  "phone": "0114681699"
+
+},
+
+{
+  "id": 2,
+"name": "Khalid",
+"age": "6",
+"address": "abutalib",
+"email": "khalid@gmail.com",
+"phone": "01111111111"
+},
+
+    {
+      "id": 3,
+      "name": "Aly",
+      "age": 22,
+      "address": "456 st.",
+      "email": "aly@gmail.com",
+      "phone": "0222222222"
+    },
+    {
+      "id": 4,
+      "name": "Sara",
+      "age": 25,
+      "address": "789 st.",
+      "email": "sara@gmail.com",
+      "phone": "03333333333"
+    },
+    {
+      "id": 5,
+      "name": "Sama",
+      "age": 24,
+      "address": "147 st.",
+      "email": "sama@gmail.com",
+      "phone": "0444444444"
+    },
+    {
+      "id": 6,
+      "name": "Fady",
+      "age": 23,
+      "address": "258 st.",
+      "email": "fady@gmail.com",
+      "phone": "05555555"
+    },
+    {
+      "id": 7,
+      "name": "sagda",
+      "age": 15,
+      "address": "369 st.",
+      "email": "batooot@gmail.com",
+      "phone": "0666666666"
+    }
+  ]
+}
